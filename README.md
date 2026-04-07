@@ -13,4 +13,5 @@ Creating copies of your files, settings, and system information to protect again
 - <b> Be able to backup files temporarily and exclude non business critical files </b>
 
 <h2>Languages and Utilities Used</h2>
-- <b> Windows Server simulator </b>
+
+- <b> Windows Server simulator</b>
