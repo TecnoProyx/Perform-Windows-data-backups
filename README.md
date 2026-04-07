@@ -24,3 +24,33 @@ Creating copies of your files, settings, and system information to protect again
 Click Start and then Settings: <br/>
 <img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
+
+<p align="center">
+Select Update and Security: <br/>
+<img src="Select Update and Security.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Select Back Up: <br/>
+<img src="Select Back Up.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Turn Automatically back up my files on: <br/>
+<img src="Turn Automatically back up my files on..png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Click Start and then Settings: <br/>
+<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Click Start and then Settings: <br/>
+<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Click Start and then Settings: <br/>
+<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
