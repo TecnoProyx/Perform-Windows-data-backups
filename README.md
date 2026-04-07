@@ -11,3 +11,6 @@ Creating copies of your files, settings, and system information to protect again
 - <b> Backup frequency and retention period </b>
 - <b> Be able only to include essential folders to be  backed up </b>
 - <b> Be able to backup files temporarily and exclude non business critical files </b>
+
+<h2>Languages and Utilities Used</h2>
+- <b> Windows Server simulator </b>
