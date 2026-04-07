@@ -16,4 +16,4 @@ Creating copies of your files, settings, and system information to protect again
 
 - <b> Windows Server simulator</b>
 
-- <b> able to check if logs are free from errors and any potential issues </b>
+- <b> Able to check if logs are free from errors and any potential issues </b>
