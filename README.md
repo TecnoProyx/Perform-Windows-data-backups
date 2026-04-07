@@ -17,3 +17,10 @@ Creating copies of your files, settings, and system information to protect again
 - <b> Windows Server simulator</b>
 
 - <b> Able to check if logs are free from errors and any potential issues </b>
+
+<h2>Steps</h2>
+
+<p align="center">
+Click Start and then Settings: <br/>
+<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
