@@ -22,7 +22,7 @@ Creating copies of your files, settings, and system information to protect again
 
 <p align="center">
 Click Start and then Settings: <br/>
-<img src="Click Start and then Settings.png" height="50%" width="50%" alt= Perform Windows data backups/>
+<img src="Click Start and then Settings.png" height="50%" width="50%" alt= "Windows data backups"/>
 <br />
 
 <p align="center">
