@@ -15,3 +15,5 @@ Creating copies of your files, settings, and system information to protect again
 <h2>Languages and Utilities Used</h2>
 
 - <b> Windows Server simulator</b>
+
+- <b> able to check if logs are free from errors and any potential issues </b>
