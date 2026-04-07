@@ -22,7 +22,7 @@ Creating copies of your files, settings, and system information to protect again
 
 <p align="center">
 Click Start and then Settings: <br/>
-<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="Click Start and then Settings.png" height="50%" width="50%" alt=/>
 <br />
 
 <p align="center">
@@ -41,16 +41,68 @@ Turn Automatically back up my files on: <br/>
 <br />
 
 <p align="center">
-Click Start and then Settings: <br/>
-<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Select more options: <br/>
+<img src="Select more options.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p align="center">
-Click Start and then Settings: <br/>
-<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+backup times and leave the default, every hour, selected: <br/>
+<img src="backup times and leave the default, every hour, selected.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p align="center">
-Click Start and then Settings: <br/>
-<img src="Click Start and then Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Select 6 months: <br/>
+<img src="Select 6 months.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Scroll down to review the Folders that will be backed up: <br/>
+<img src="Scroll down to review the Folders that will be backed up.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<p align="center">
+Select Add a folder under the Exclude these folders section: <br/>
+<img src="Select Add a folder under the Exclude these folders section.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<p align="center">
+Select Downloads and Choose this folder: <br/>
+<img src="Select Downloads and Choose this folder.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<p align="center">
+Click on Advanced Settings: <br/>
+<img src="Click on Advanced Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<p align="center">
+Click on Run now to start the backup: <br/>
+<img src="Click on Run now to start the backup.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<p align="center">
+Select Advanced Settings: <br/>
+<img src="Select Advanced Settings.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<p align="center">
+Open File History event logs to view recent events or errors: <br/>
+<img src="Open File History event logs to view recent events or errors.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<p align="center">
+Select yes.png: <br/>
+<img src="Select yes.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Explore the log and make note of unusual activity: <br/>
+<img src="Explore the log and make note of unusual activity.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
