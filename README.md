@@ -10,4 +10,4 @@ Creating copies of your files, settings, and system information to protect again
 
 - <b> Backup frequency and retention period </b>
 - <b> Be able only to include essential folders to be  backed up </b>
-- <b> Be able to back up files temporarily and exclude non-business-critical files </b>
+- <b> Be able to back up files temporarily and exclude non business critical files </b>
